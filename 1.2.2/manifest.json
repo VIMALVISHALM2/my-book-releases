@@ -1,0 +1,15 @@
+{
+ "app": "my-book",
+ "version": "1.2.2",
+ "electron": "45.2.2",
+ "date": "2026-11-26",
+ "asar": {
+  "file": "app.asar",
+  "size": 3218348,
+  "sha256": "0e3c9552fef42b20ebba1edc79d791f00ca7e69cb6ddc8aaca652db7409fa367"
+ },
+ "notes": {
+  "en": "The home screen keeps your place: come back from a goldsmith, manufacturer or shop and you are where you were, with that person's line lit for a moment.",
+  "ta": "முகப்புத் திரை உங்கள் இடத்தை நினைவில் வைக்கும்: பொற்கொல்லர், உற்பத்தியாளர் அல்லது கடையின் பக்கத்திலிருந்து திரும்பும்போது, நீங்கள் இருந்த இடத்திற்கே வருவீர்கள்; அவருடைய வரி ஒரு கணம் ஒளிரும்."
+ }
+}
