@@ -1,0 +1,15 @@
+{
+ "app": "my-book",
+ "version": "1.2.1",
+ "electron": "45.2.2",
+ "date": "2026-11-26",
+ "asar": {
+  "file": "app.asar",
+  "size": 3216430,
+  "sha256": "baaebe3f384b08494fd97b06e8210c157fa55f6449293076f49a1304e0dcd453"
+ },
+ "notes": {
+  "en": "Updates now come by themselves from My Book's own page on GitHub (Settings → Updates (GitHub) → Check now). Only the update is downloaded — nothing from your book is ever sent — and a pen drive still works (Update from a file). Also new since 1.1.0: Making charges and Cash to convert are two separate figures, never added together; an opening balance or money given typed before this version may sit in the wrong one, and a Correction line moves it. My shop: the daily tray count. Each manufacturer has a usual metal (gold, silver or both), chosen once. Receipt-printer slips print like the manufacturer's slip (Settings → Printing → Print style brings Classic back).",
+  "ta": "புதுப்பிப்புகள் இப்போது GitHub-இல் உள்ள My Book-இன் சொந்தப் பக்கத்திலிருந்து தானாக வரும் (அமைப்புகள் → புதுப்பிப்புகள் (GitHub) → இப்போது பார்). புதுப்பிப்பு மட்டுமே பதிவிறக்கப்படும் — உங்கள் கணக்கிலிருந்து எதுவும் ஒருபோதும் அனுப்பப்படாது; pen drive வழியும் வேலை செய்யும் (கோப்பிலிருந்து புதுப்பி). 1.1.0-க்குப் பின் புதியவை: செய்கூலியும் மாற்ற வேண்டிய பணமும் இரண்டு தனித் தொகைகள், ஒருபோதும் கூட்டப்படாது; இந்தப் பதிப்புக்கு முன் போட்ட தொடக்க இருப்போ கொடுத்த பணமோ தவறான தொகையில் இருக்கலாம் — திருத்தம் வரி அதை மாற்றும். என் கடை: தட்டு வாரியாக தினசரி எண்ணிக்கை. ஒவ்வொரு உற்பத்தியாளருக்கும் வழக்கமான உலோகம் (தங்கம், வெள்ளி அல்லது இரண்டும்) ஒரு முறை தேர்வு செய்யப்படும். ரசீது printer சீட்டுகள் உற்பத்தியாளர் சீட்டு போல அச்சாகும் (அமைப்புகள் → அச்சிடுதல் → சீட்டின் அச்சு வடிவம்: பழைய வடிவம் திரும்பப் பெறலாம்)."
+ }
+}
