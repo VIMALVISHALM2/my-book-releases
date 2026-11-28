@@ -1,0 +1,15 @@
+{
+ "app": "my-book",
+ "version": "1.2.3",
+ "electron": "45.2.2",
+ "date": "2026-11-28",
+ "asar": {
+  "file": "app.asar",
+  "size": 3250459,
+  "sha256": "eb300ce867347f851c44d73715465042018f8318ceb377140ba5db684c83dcff"
+ },
+ "notes": {
+  "en": "Yellow marks for what is still pending: a yellow ⚠ beside a goldsmith's, manufacturer's or shop's name when something waits — old metal whose purity is not set yet, cash not yet turned into gold or silver, making charges to pay, items still out. The same mark sits in the column it touches, and in the person's ledger beside the very entry. Press a mark to see why and to open the right step (Set purity, Convert to gold) — nothing is saved until you press Save. The marks go away by themselves when it is done.\nMoney given → Cash to convert now asks how it went: RTGS or Cash (two buttons; nothing is chosen for you). The one you choose shows on that entry in the ledger, its slip, the statement, WhatsApp and All transactions (whose Cash / RTGS filter now puts it in the right place). Entries saved before stay as they are.",
+  "ta": "இன்னும் முடியாதவைக்கு மஞ்சள் அடையாளம்: பொற்கொல்லர், உற்பத்தியாளர் அல்லது கடையின் பெயர் அருகே மஞ்சள் ⚠ — தரம் போடாத பழைய உலோகம், இன்னும் தங்கம் / வெள்ளியாக மாற்றாத பணம், கொடுக்க வேண்டிய செய்கூலி, இன்னும் திரும்பாத நகை இருந்தால். அதே அடையாளம் அந்த நெடுவரிசையிலும், அவருடைய கணக்கில் அந்தப் பதிவின் அருகிலும் வரும். அடையாளத்தை அழுத்தினால் ஏன் என்று தெரியும், சரியான அடுத்த படி திறக்கும் (தரம் போடு, தங்கமாக மாற்று) — \"சேமி\" அழுத்தும் வரை எதுவும் சேமிக்கப்படாது. வேலை முடிந்ததும் அடையாளம் தானாகவே போய்விடும்.\nபணம் கொடுத்தது → பணம் (மாற்ற): இப்போது எப்படி கொடுத்தீர்கள் என்று கேட்கும் — RTGS அல்லது ரொக்கம் (இரண்டு பொத்தான்கள்; தானாக எதுவும் தேர்வாகாது). நீங்கள் தேர்ந்தெடுத்தது அந்தப் பதிவிலேயே வரும் — கணக்கிலும், சீட்டிலும், அறிக்கையிலும், WhatsApp-இலும், எல்லா பதிவுகளிலும் (அதன் ரொக்கம் / RTGS வடிகட்டியும் இப்போது சரியான இடத்தில் காட்டும்). முன்பு போட்ட பதிவுகள் அப்படியே இருக்கும்."
+ }
+}
